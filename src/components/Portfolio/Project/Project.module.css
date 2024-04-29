@@ -1,0 +1,16 @@
+.image {
+    width: 97%;
+    margin: auto;
+    padding-top: 5px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.description {
+    margin-top: 0;
+}

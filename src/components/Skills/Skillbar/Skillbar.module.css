@@ -1,0 +1,37 @@
+.bar {
+    height: 60%;
+    background: linear-gradient(#e3e3e3, #d3d3d3);
+    border: 0.3px solid lightgray;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.skillbar {
+    margin: 16px auto 0px auto;
+    width: 90%;
+    height: 50px;
+    display: grid;
+    grid-template-columns: 10% auto;
+    user-select: none;
+}
+
+.name {
+    display: grid;
+    margin: 0;
+    align-items: center;
+    justify-content: right;
+    margin-right: 10px;
+}
+
+.percentage {
+    background: linear-gradient(#6D87D6, #476BD6);
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.bar .test {
+    color: white;
+    position: absolute;
+    margin-top: 3px;
+	left: 50%;
+}
