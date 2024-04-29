@@ -38,7 +38,13 @@
     text-align:justify;
 }
 
+.text p abbr{
+    text-decoration: none;
+    font-weight: 500;
+}
+
 .socialNetworkList {
+    margin-top: 10px;
     padding-left: auto;
     padding-left: auto;
     text-align: center;
