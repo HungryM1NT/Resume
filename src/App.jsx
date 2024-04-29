@@ -13,8 +13,8 @@ function App() {
   return (
     <>
       <Profile aos="fade-down" />
-      <Skills aos="fade-down" />
-      <Portfolio aos="fade-down" />
+      <Skills />
+      <Portfolio aos="fade-up" />
     </>
   )
 }
